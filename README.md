@@ -1,2 +1,2 @@
-# Meg_section_6
-Section6_課題
+# Meg_section_6-0
+Section6-0_課題
